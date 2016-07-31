@@ -1,0 +1,46 @@
+*{
+	font-family: 'Amatic SC', cursive;
+	font-size: 14px;
+}
+
+.mainheading{
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 60px;
+}
+
+.white{
+	color: white;
+}
+
+.black{
+	background: black;
+}
+
+.largeText{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.mediumText{
+	font-size: 35px;
+}
+
+.center{
+	text-align: center;
+}
+
+.middleimage{
+	margin-top:30%;
+}
+
+.middletext{
+	margin-top: 5%;
+}
+
+.middle-welcome{
+	margin-top: 25%;
+}
+
+.blueText{
+	font-color: #0066FF;
+}
